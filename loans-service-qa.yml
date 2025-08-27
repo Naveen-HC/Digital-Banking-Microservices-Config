@@ -1,7 +1,7 @@
 build:
   version: 2.0
 
-loan:
+loans:
   message: "Welcome to Navi-Digital-Bank loan qa related APIs (referesh)"
   contactDetails:
     name: "asha"
